@@ -6,7 +6,7 @@
 
 HumanKindAI is an AI companion built for people who feel alone and need someone to think with, talk to, and grow with.
 
-It is not designed to replace human relationships —
+It is not designed to replace human relationships —  
 but to provide presence, clarity, and intelligent support when someone needs it most.
 
 Artificial Intelligence. Human Kind.
@@ -18,6 +18,7 @@ Artificial Intelligence. Human Kind.
 | Product | Description | Tech | Stars |
 |---|---|---|---|
 | 🧠 [HumanKindAI](https://github.com/axeleagle1/HumanKindAI) | AI companion built with memory, boundaries, and empathy | AI | ![stars](https://img.shields.io/github/stars/axeleagle1/HumanKindAI?style=social) |
+| 🌱 [KinderAI](https://github.com/axeleagle1/KinderAI) | AI companion product built on the HumanKindAI framework | AI | ![stars](https://img.shields.io/github/stars/axeleagle1/KinderAI?style=social) |
 
 ---
 
@@ -48,9 +49,3 @@ The real challenge is not capability —
 it is alignment.
 
 HumanKindAI exists to ensure intelligence evolves with empathy.
-
----
-
-<p align="center">
-  <i>Intelligence With Empathy.</i>
-</p>
