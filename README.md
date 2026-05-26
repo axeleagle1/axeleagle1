@@ -75,13 +75,14 @@ The goal isn't to replace human relationships. It's to provide **presence**, **c
 
 ## 📊 Activity
 
-<div align="center">
+![](https://komarev.com/ghpvc/?username=axeleagle1&style=flat-square&color=8B5CF6&label=Profile+Views)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axeleagle1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axeleagle1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9)
-
-</div>
+```text
+🗓️ This Year       119 contributions
+🔨 Most Active     HumankindAI · kira-markets · vax-finance
+💬 Languages       TypeScript · JavaScript
+📍 Location        Philippines · UTC+08:00
+```
 
 ---
 
