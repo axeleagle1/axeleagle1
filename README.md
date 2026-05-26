@@ -1,13 +1,4 @@
-Here you go — select all and copy:
-markdown<div align="center">
-██╗  ██╗███████╗██╗   ██╗    █████╗ ██╗  ██╗███████╗██╗
-██║  ██║██╔════╝╚██╗ ██╔╝   ██╔══██╗╚██╗██╔╝██╔════╝██║
-███████║█████╗   ╚████╔╝    ███████║ ╚███╔╝ █████╗  ██║
-██╔══██║██╔══╝    ╚██╔╝     ██╔══██║ ██╔██╗ ██╔══╝  ██║
-██║  ██║███████╗   ██║      ██║  ██║██╔╝ ██╗███████╗███████╗
-╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
-
-# Van Axel Aguila
+# Hi, I'm Axel 👋
 
 **Builder. Curious mind. Learning fast.**
 
@@ -16,8 +7,6 @@ markdown<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vanaxelaguiladev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanaxelaguiladev)
 [![Email](https://img.shields.io/badge/Email-axeleagle1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:axeleagle1@gmail.com)
 [![HumanKindAI](https://img.shields.io/badge/Org-@HumanKindAI-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/HumanKindAI)
-
-</div>
 
 ---
 
@@ -33,28 +22,32 @@ I build systems at the intersection of **AI**, **finance**, and **human experien
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 🧠 **[HumankindAI](https://github.com/axeleagle1/HumankindAI)** | AI companion with memory, autonomy boundaries, and emotional intelligence. Built for people who need presence, not just answers. | AI · TypeScript | 🔨 Active |
-| 📈 **[kira-markets-v2](https://github.com/axeleagle1/kira-markets-v2)** | Next-gen market intelligence platform. Real-time data, clean UI, built for scale. | TypeScript | 🔨 Active |
-| 📊 **[kira-markets](https://github.com/axeleagle1/kira-markets)** | Market data and analysis tools — the foundation kira-markets-v2 is built on. | JavaScript | 🏗 Iterating |
+| 🧠 **[HumankindAI](https://github.com/axeleagle1/HumankindAI)** | AI companion with memory, autonomy boundaries, and emotional intelligence. | AI · TypeScript | 🔨 Active |
+| 📈 **[kira-markets-v2](https://github.com/axeleagle1/kira-markets-v2)** | Next-gen market intelligence platform. Real-time data, built for scale. | TypeScript | 🔨 Active |
+| 📊 **[kira-markets](https://github.com/axeleagle1/kira-markets)** | Market data and analysis tools — the foundation kira-markets-v2 is built on. | JavaScript | 🏗️ Iterating |
 | 💸 **[vax-finance](https://github.com/axeleagle1/vax-finance)** | Financial tooling and infrastructure. Clean architecture, TypeScript-first. | TypeScript | 🔨 Active |
 
 ---
 
 ## 🔧 What I'm Working On
-→ Designing HumankindAI core architecture
-→ Building memory-aware AI systems
-→ Experimenting with safe autonomy models
-→ Developing emotional intelligence layers
-→ Scaling kira-markets infrastructure
-→ Shipping in public and iterating fast
+
+- Designing HumankindAI core architecture
+- Building memory-aware AI systems
+- Experimenting with safe autonomy models
+- Developing emotional intelligence layers
+- Scaling kira-markets infrastructure
+- Shipping in public and iterating fast
 
 ---
 
 ## ⚙️ Current Focus
-Memory & personalization engine      ████████░░  80%
-Controlled autonomy framework        ██████░░░░  60%
-Market data infrastructure           ███████░░░  70%
-System safety boundaries             █████░░░░░  50%
+
+| Area | Progress |
+|---|---|
+| Memory & personalization engine | `████████░░` 80% |
+| Market data infrastructure | `███████░░░` 70% |
+| Controlled autonomy framework | `██████░░░░` 60% |
+| System safety boundaries | `█████░░░░░` 50% |
 
 ---
 
@@ -96,6 +89,6 @@ The goal isn't to replace human relationships. It's to provide **presence**, **c
 
 *Builder in progress. Curious mind. Learning fast.*
 
-**🇵🇭 Philippines · UTC+08:00**
+🇵🇭 Philippines · UTC+08:00
 
 </div>
