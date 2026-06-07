@@ -1,5 +1,4 @@
-# Van Axel Aguila
-
+#
 **Smart Contract Auditor & Security Researcher**
 
 Finding critical vulnerabilities in live DeFi protocols across EVM and Solana ecosystems. I specialize in access control bypasses, oracle manipulation, economic attack vectors, and SDK correctness analysis.
