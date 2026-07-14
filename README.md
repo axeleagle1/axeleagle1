@@ -7,5 +7,5 @@
   <img src="https://github.com/user-attachments/assets/c7035697-850b-48e7-8eb7-ea9cba8f37a7" width="48%" alt="SaaScon PH '26 Certificate" />
 </p>
 
-* **Snowflake Discover AI** (July 6–10, 2026)[cite: 1]
-* **SaaScon PH '26 "Enterprise 2030"** (May 12, 2026)[cite: 2]
+* **Snowflake Discover AI** (July 6–10, 2026)
+* **SaaScon PH '26 "Enterprise 2030"** (May 12, 2026)
